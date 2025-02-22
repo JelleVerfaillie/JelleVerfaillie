@@ -56,12 +56,4 @@
   </a>
 </div>
 
-###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/Jelle Verfaillie">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jelle%20Verfaillie&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
