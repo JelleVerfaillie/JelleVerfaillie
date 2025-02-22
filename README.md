@@ -1,18 +1,6 @@
-<h1 align="left">Hi 👋</h1> <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhhcXl5eWNtMDJkb3F2YjMxaXk4N2JrbW41YjhwcnNuYnFjcmtxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif"  />
+<h1 align="left">Hi 👋</h1> 
 
 ###
-
-
-
-###
-
-
-
-###
-
-
-###
-
 <h2 align="left">About me ⭐</h2>
 
 ###
@@ -44,5 +32,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhhcXl5eWNtMDJkb3F2YjMxaXk4N2JrbW41YjhwcnNuYnFjcmtxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif"  />
 
 ###
