@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋</h2>
+<h1 align="left">Hi 👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying computer science at hogent<br>🎯 Goals: learning more about cybersecurity and becoming better at programming<br>🎲 Fun fact: i love music</p>
+<p align="left">📚 I'm currently studying computer science at hogent<br>🎯 Goals: learning more about cybersecurity and programming<br>🎲 Fun fact: i love music</p>
 
 ###
 
@@ -33,27 +33,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
-
-<h2 align="left">You can contact me on</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/jelleverfaillie" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jelle.verfaillie/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="jelle_verfaillie@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-
